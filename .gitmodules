@@ -1,0 +1,6 @@
+[submodule "code/move-by-examples"]
+	path = code/move-by-examples
+	url = https://github.com/dentropy/move-by-examples.git
+[submodule "code/nostrudel"]
+	path = code/nostrudel
+	url = https://github.com/dentropy/nostrudel.git
